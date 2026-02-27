@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "バースデイ",
+  "base_artist": "内緒のピアス",
+  "createdAt": "2026-02-27T15:36:50.724571Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "バースデイ",
+      "artist": "People In The Box",
+      "has_synced": true,
+      "path": "select/01_バースデイ_People_In_The_Box.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "バースデイ・ソング",
+      "artist": "八神純子",
+      "has_synced": true,
+      "path": "select/02_バースデイ・ソング_八神純子.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "バースデイ・ソング",
+      "artist": "Yagami, Junko",
+      "has_synced": true,
+      "path": "select/03_バースデイ・ソング_Yagami,_Junko.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "バースデイ・ソング",
+      "artist": "Junko Yagami",
+      "has_synced": true,
+      "path": "select/04_バースデイ・ソング_Junko_Yagami.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "バースデイ",
+      "artist": "mol-74",
+      "has_synced": true,
+      "path": "select/05_バースデイ_mol-74.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "バースデイ",
+      "artist": "花澤香菜",
+      "has_synced": true,
+      "path": "select/06_バースデイ_花澤香菜.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "バースデイ・ソング",
+      "artist": "Junko Yagami (八神純子)",
+      "has_synced": true,
+      "path": "select/07_バースデイ・ソング_Junko_Yagami_(八神純子).lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "バースデイ! ～PEACE of SMILE",
+      "artist": "May'n",
+      "has_synced": false,
+      "path": "select/08_バースデイ!_~PEACE_of_SMILE_May'n.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "バースデイ！〜PEACE of SMILE",
+      "artist": "May’n",
+      "has_synced": false,
+      "path": "select/09_バースデイ!〜PEACE_of_SMILE_May’n.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "バースデイ!~PEACE of SMILE",
+      "artist": "May’n",
+      "has_synced": false,
+      "path": "select/10_バースデイ!~PEACE_of_SMILE_May’n.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "バースデイ",
+      "artist": "Hanazawa Kana",
+      "has_synced": true,
+      "path": "select/11_バースデイ_Hanazawa_Kana.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "バースデイ！～PEACE of SMILE",
+      "artist": "May'n",
+      "has_synced": false,
+      "path": "select/12_バースデイ!~PEACE_of_SMILE_May'n.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "バースデイ・ソング",
+      "artist": "なとり",
+      "has_synced": true,
+      "path": "select/13_バースデイ・ソング_なとり.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "バースデイ",
+      "artist": "内緒のピアス",
+      "has_synced": false,
+      "path": "select/pl_01_バースデイ_内緒のピアス.txt"
+    }
+  ]
+}
